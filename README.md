@@ -1,2 +1,2 @@
 # x-project
-Knowladge sharing project for my nephew 
+Knowledge sharing project for my nephew 
